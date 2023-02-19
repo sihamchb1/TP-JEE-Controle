@@ -17,8 +17,7 @@ Base de données :
 
 ![gateway](https://user-images.githubusercontent.com/84284235/206551445-f2fdda9b-d477-48f0-9326-264500a5fcfa.PNG)
 
-
-![gateway2](https://user-images.githubusercontent.com/84284235/206551468-50dba741-64ba-4113-93c7-4d983c078241.PNG)
+<img width="1046" alt="Screenshot 2023-02-19 at 19 38 49" src="https://user-images.githubusercontent.com/84284235/219971741-131d3176-0cdc-42e5-8b7c-8eb41115d728.png">
 
 
 # 4- Créer l'annuaire Eureka Discrovery Service :
@@ -34,7 +33,6 @@ Base de données :
 
 <img width="1088" alt="SCREEN" src="https://user-images.githubusercontent.com/84284235/219952458-63ddf21d-06ae-412c-ab12-f485fc242bd1.png">
 
-![dynamqieu2](https://user-images.githubusercontent.com/84284235/206560891-e48ff603-1998-422d-ab25-1a5c9e30cb04.PNG)
 
 # 6-Créer le service de facturation Billing-Service en utilisant Open Feign :
 
